@@ -1,4 +1,9 @@
 # This repository is for the manuscript of Lim at all 
+Citation (click the image): 
+[![image](https://github.com/user-attachments/assets/c15a5a15-1fd7-4987-8e3d-9f4be2cc1c30)](https://www.embopress.org/doi/full/10.1038/s44318-024-00328-6)
+
+### Interactive data browser
+[CZ Cellxgene](https://cellxgene.cziscience.com/collections/92db8a7e-8761-4317-873f-15606c016ce5)
 
 ### Software versions
 
