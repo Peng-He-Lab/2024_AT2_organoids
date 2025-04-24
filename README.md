@@ -4,6 +4,8 @@ Citation (click the image):
 
 ### Interactive data browser
 [CZ Cellxgene](https://cellxgene.cziscience.com/collections/92db8a7e-8761-4317-873f-15606c016ce5)
+[![image](https://github.com/user-attachments/assets/40fcd8c0-8365-45ec-a56e-5a2cb76b8929)](https://cellxgene.cziscience.com/collections/92db8a7e-8761-4317-873f-15606c016ce5)
+
 
 ### Software versions
 
